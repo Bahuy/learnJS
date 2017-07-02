@@ -1,2 +1,2 @@
-var name = prompt("Mời bạn nhập tên");
-alert(name);
+var input = prompt("Plese tell me Your name");
+alert("Xin chào " + " " + input);
