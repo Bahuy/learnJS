@@ -1,1 +1,2 @@
- alert("Xin chào bạn Bá Huy");
+var name = prompt("Mời bạn nhập tên");
+alert(name);
