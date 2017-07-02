@@ -1,2 +1,3 @@
-var input = prompt("Plese tell me Your name");
-alert("Xin chào " + " " + input);
+var name = "Huy"
+name = 18;
+alert(name);
